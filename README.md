@@ -1,0 +1,1 @@
+I will be constructing a recipe blog for my very first web page. This will teach my how to use HTML to construct the page, and get familiar with the basics of git.
